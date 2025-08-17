@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vishveshvar-portfolio-/static/css/main.6e042a53.css",
+    "main.js": "/vishveshvar-portfolio-/static/js/main.ff1e306b.js",
+    "static/media/portfolio-1.png": "/vishveshvar-portfolio-/static/media/portfolio-1.88631ba07c71fb36921d.png",
+    "static/media/portfolio-2.png": "/vishveshvar-portfolio-/static/media/portfolio-2.7886658c2288209c7439.png",
+    "static/media/portfolio-3.png": "/vishveshvar-portfolio-/static/media/portfolio-3.677d7b5453f0f8c752f4.png",
+    "static/media/portfolio-4.png": "/vishveshvar-portfolio-/static/media/portfolio-4.ae5ad35d74c2b1546b5a.png",
+    "static/media/portfolio-6.png": "/vishveshvar-portfolio-/static/media/portfolio-6.18f000023d3ca7518413.png",
+    "static/media/portfolio-5.png": "/vishveshvar-portfolio-/static/media/portfolio-5.71a15cb7d37add8d83f2.png",
+    "static/media/image.png": "/vishveshvar-portfolio-/static/media/image.8c30e12c715acfe0a250.png",
+    "static/media/logo.png": "/vishveshvar-portfolio-/static/media/logo.db2e1422155a04a23ba3.png",
+    "static/media/facebook.png": "/vishveshvar-portfolio-/static/media/facebook.bfd9a7d5b52b1a05f29f.png",
+    "static/media/microsoft.png": "/vishveshvar-portfolio-/static/media/microsoft.c79f333b12595d3eec8f.png",
+    "static/media/ui-design.png": "/vishveshvar-portfolio-/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/vishveshvar-portfolio-/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/vishveshvar-portfolio-/index.html",
+    "main.6e042a53.css.map": "/vishveshvar-portfolio-/static/css/main.6e042a53.css.map",
+    "main.ff1e306b.js.map": "/vishveshvar-portfolio-/static/js/main.ff1e306b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e042a53.css",
+    "static/js/main.ff1e306b.js"
+  ]
+}
